@@ -1,0 +1,26 @@
+name: Merle
+favicon: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#040406'
+    - '#b1b7c7'
+    - '#9f647a'
+    - '#69185b'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
